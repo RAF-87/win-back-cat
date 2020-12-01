@@ -46,7 +46,7 @@
 #### Why? - Reverse Shell
 
 <br />
-We need Linux version of Netcat compiled for Windows, instead of the more common OpenBSD version.
+We need Linux version of Netcat compiled for Windows, instead of the common OpenBSD version.
 <br /><br />
 The feature we need is this one:
 <br />
