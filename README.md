@@ -92,7 +92,7 @@ The above script, will run our batch script as a separate process on the backgro
 We add our Visual Basic script to Run from the registry entry when Windows Boots up.
 So whenever we lose connection, the backdoor will reopen at the next reboot.
 
-<br /><br />
+<br />
 
 #### Tested on (Feel free to add to this list with a request):
 
