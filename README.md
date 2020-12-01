@@ -94,6 +94,15 @@ So whenever we lose connection, the backdoor will reopen at the next reboot.
 
 <br /><br />
 
+#### Tested on (Feel free to add to this list with a request):
+
+<br />
+
+- OS:           Microsoft Windows 10 Pro 10.0.18363 N/A Build 18363
+- Antivirus:    Microsoft Defender, BitDefender
+
+<br /><br />
+
 # Note:
 - Using these combined tools, Windows or Any Antivirus cannot detect this backdoor.
 - Remember to edit `ATTACKER.IP` for the reverse shell to work.
