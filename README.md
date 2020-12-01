@@ -17,7 +17,8 @@
 
 ### Prerequisites:
 
-- Python should be preinstalled on latest versions of Windows, check by running `python --version` on command prompt (Install it if missing).
+- Python should be preinstalled on latest versions of Windows.
+- You can check by running `python --version` on command prompt (Install it if missing).
 
 <br />
 <br />
