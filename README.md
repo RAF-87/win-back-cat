@@ -38,7 +38,7 @@ We need Linux version of Netcat compiled for Windows, instead of the more common
 The feature we need is this one:
 <br />
 
-- `-e filename`: specify `filename` to exec after connect (use with caution). See the -c option for enhanced functionality.
+- `-e filename`: specify `filename` to exec after connect (use with caution). Connects STDIN and STDOUT to the specified file.
 
 <br />
 
