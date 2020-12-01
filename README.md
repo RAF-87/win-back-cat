@@ -23,6 +23,7 @@
 ### Breakdown:
 
 <br />
+
 - Move into Temp folder with Environment Variable `%TEMP%` as this helps with compatibility between Windows versions.
 
 - Fetch our Netcat version from repo with:<br />
