@@ -91,6 +91,7 @@ We use `-c` to run the script as one-liner from string. We export it onto a batc
 `Set WinScriptHost = Nothing`
 
 The above script, will run our batch script as a separate process on the background without the user ever seeing anything.
+We need this to keep `pythonw.exe` alive in the background, otherwise using just the batch script we would need a command prompt window always open.
 
 <br />
 
