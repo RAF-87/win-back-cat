@@ -91,8 +91,7 @@ So whenever we lose connection, the backdoor will reopen at the next reboot.
 
 # Note:
 - Using these combined tools, Windows or Any Antivirus cannot detect this backdoor.
-
-Remember to edit `ATTACKER.IP` for the reverse shell to work.
+- Remember to edit `ATTACKER.IP` for the reverse shell to work.
 
 <br /><br /><br />
 
