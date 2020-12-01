@@ -4,7 +4,7 @@
     A fully undetected, hidden, persistent, reverse netcat shell backdoor for Windows.
     <br />
     <br />
-    <a href="https://github.com/RAF-87/win-back-cat/issues">Report Bug</a>
+    <a href="https://github.com/RAF-87/win-back-cat/issues">Report Issue</a>
     ·
     <a href="https://github.com/RAF-87/win-back-cat/issues">Request Feature</a>
   </p>
