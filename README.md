@@ -45,7 +45,6 @@ The feature we need is this one:
 In our case the `filename` will be `cmd.exe`. This flag is missing on some versions for obvious Security reasons.
 
 <br />
-<br />
 
 #### Pythonw - Undetected
 
