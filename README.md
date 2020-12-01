@@ -17,9 +17,14 @@
 
 ### Prerequisites:
 
+#### Python:
 - Python should be preinstalled on latest versions of Windows.
 - You can check by running `python --version` on command prompt.
 - If python is not installed, you will need to install it for this to work.
+#### cURL:
+- If you have version 1803 or later of Windows 10, cURL is installed by default.
+- If you don't have cURL you will need to install it for this to work.
+- Otherwise find an alternative way to fetch `nc.exe`
 
 <br />
 <br />
