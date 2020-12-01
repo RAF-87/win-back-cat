@@ -15,6 +15,13 @@
 <br />
 <br />
 
+### Prerequisites:
+
+- Python should be preinstalled on latest versions of Windows, check by running `python --version` on command prompt (Install it if missing).
+
+<br />
+<br />
+
 ### Breakdown:
 
 <br />
