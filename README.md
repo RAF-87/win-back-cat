@@ -18,6 +18,7 @@
 ### Prerequisites:
 
 <br />
+- You need to be logged in as an Administrator in order to be able to create a TCP listener with NetCat.
 
 #### Python:
 - Python should be preinstalled on latest versions of Windows.
