@@ -33,7 +33,15 @@
 <br />
 <br />
 
-### Breakdown:
+<br />
+
+### Installation / How to use:
+
+- Very simple, download and execute the batch script: `win-back-cat.bat`.
+
+<br />
+
+### Breakdown (What's in the script):
 
 <br />
 
